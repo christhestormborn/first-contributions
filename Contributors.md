@@ -1,7 +1,7 @@
 
 # Contributors
 sardor Uchqunov
-- [Chris Emmah](https://github.com/christhestormborn/first-contributions.git)
+- [Chris Emmah](https://github.com/christhestormborn/Chris-Emmah)
 - [Erfan Ahmadi](https://github.com/erfan-web)
 - [Mohd Suhaib Siddiqui] (https://github.com/Suhaib-Sid)
 - [Justslugard] (https://github.com/Justslugard)
